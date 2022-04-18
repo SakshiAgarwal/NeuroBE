@@ -1,4 +1,4 @@
-# BucketElimination
+# NeuroBE
 
 ## Instructions
 
